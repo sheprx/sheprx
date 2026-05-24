@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike Shepard. Data Sceintist, Doctor of Pharmacy (PharmD), licensed pharmacist, and lifelong learning enthusiast.
+- 👋 Hi, I’m Mike Shepard. Data Scientist, Doctor of Pharmacy (PharmD), licensed pharmacist, and lifelong learning enthusiast.
 - 👀 I’m interested in informatics, analytics, data science, software engineering, and disrupting U.S. healthcare.
 - 🌱 I’m currently working mostly in python, polars, and MySQL/MariaDB.
 - 💞️ I’m looking to build a robust portfolio.
